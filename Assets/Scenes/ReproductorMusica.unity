@@ -1679,7 +1679,6 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 4841c1f56e9a0da45a7e62ba476b08cd, type: 3}
   - {fileID: 8300000, guid: 26470ecaff87a7a44a9c0d9c2839a660, type: 3}
   - {fileID: 8300000, guid: 3bd3ca10a5ec2c74999b12f003befa9e, type: 3}
-  - {fileID: 8300000, guid: 3bd3ca10a5ec2c74999b12f003befa9e, type: 3}
   contador: 0
   tmp: {fileID: 665443000}
   volumenSlider: {fileID: 601233629}
