@@ -57,6 +57,8 @@ public class SongScript : MonoBehaviour
     }
     public void Exit()
     {
-        Application.Quit();
+        //Application.Quit();
+        UnityEditor.EditorApplication.isPlaying = false;
+
     }
 }
